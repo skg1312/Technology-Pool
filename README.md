@@ -9,8 +9,8 @@
 - landing page
 ![landing](https://user-images.githubusercontent.com/87139133/208729502-81bfe614-c050-417a-a9a3-eb66ccc2f1c0.png)
 - Azure staic web app
- link https://blue-river-0bd0e3510.2.azurestaticapps.net/
-- ![staticwebapp](https://user-images.githubusercontent.com/87139133/208729676-73141457-b077-4b52-9543-ee862602f8b6.png)
+- link https://blue-river-0bd0e3510.2.azurestaticapps.net/
+ ![staticwebapp](https://user-images.githubusercontent.com/87139133/208729676-73141457-b077-4b52-9543-ee862602f8b6.png)
 - home
 ![home](https://user-images.githubusercontent.com/87139133/208729884-9a0978dd-b97d-4bd2-8542-53d4dc55b597.png)
 - useful links
